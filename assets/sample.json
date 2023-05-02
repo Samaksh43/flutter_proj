@@ -1,0 +1,24 @@
+{
+  "items" : [
+    {
+      "id": "p1",
+      "name": "Item 1",
+      "price": "400",
+      "images": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Ffood&psig=AOvVaw0onwWjdeGbgiMBVYdLk5ML&ust=1677513698177000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjz9dLHs_0CFQAAAAAdAAAAABAE",
+      "description": "Description 1"
+    },
+
+    {
+      "id": "p2",
+      "name": "Item 2", "images": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhealthy-food&psig=AOvVaw0onwWjdeGbgiMBVYdLk5ML&ust=1677513698177000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjz9dLHs_0CFQAAAAAdAAAAABAJ",
+      "description": "Description 2"
+    },
+
+    {
+      "id": "p3",
+      "name": "Item 3",
+      "images": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Ffood%2F&psig=AOvVaw0onwWjdeGbgiMBVYdLk5ML&ust=1677513698177000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjz9dLHs_0CFQAAAAAdAAAAABAS",
+      "description": "Description 3"
+    }
+  ]
+}
